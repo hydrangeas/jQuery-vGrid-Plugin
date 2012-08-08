@@ -235,7 +235,7 @@
 					_self.data("_vgopt").time || 500,
 					_self.data("_vgopt").delay || 0
 				);
-			}, 500));
+			}, 50));
 		});
 	};
 	function setFontSizeListener(self, func)
